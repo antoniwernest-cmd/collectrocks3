@@ -1,0 +1,1016 @@
+{
+  "entry": "index.html",
+  "updated": "2026-11-25T16:17:50.902Z",
+  "files": [
+    {
+      "path": "assets/answer-pad.png",
+      "bytes": 1126915,
+      "sha256": "9bc1c2ebb36b9f6d7dc95cbf5d41b94038929d3fd1267adda24cd50621ca580f"
+    },
+    {
+      "path": "assets/fonts/Andika-Bold.ttf",
+      "bytes": 681008,
+      "sha256": "4361126189a2d0e0da66999352db58aaf1b4ca940faf8a8239d725f8303d890d"
+    },
+    {
+      "path": "assets/fonts/Andika-Regular.ttf",
+      "bytes": 669828,
+      "sha256": "202b96b1f174a4a43baefe885b40dacacb81786755efd08ed4b7704e79c45515"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4506,
+      "sha256": "43ee152fcd7be0c6eb3468f3012e776cb75bf88f5dec548be0aa4619bf438f9e"
+    },
+    {
+      "path": "assets/matching.png",
+      "bytes": 1681279,
+      "sha256": "ef7888093403e2d2ba439642a2aebc39712b9ab7019722f21b958d6ded2eacb0"
+    },
+    {
+      "path": "assets/progress-car.png",
+      "bytes": 1455336,
+      "sha256": "2ab27cf828545b793a405a2a46ccd30da9e91044f42aac1ac7567edefd4d2c83"
+    },
+    {
+      "path": "assets/progress-jeep.png",
+      "bytes": 1830470,
+      "sha256": "0e231bc538ce77a180033e3e9128515d0827f98f02c692918e8eb9c3b85be375"
+    },
+    {
+      "path": "assets/question.png",
+      "bytes": 1302242,
+      "sha256": "f733dd3032951ae840ee758fa63a0afbda0fd7e510f8a3b02ccc9b8d8812f19d"
+    },
+    {
+      "path": "assets/tab-notebook.png",
+      "bytes": 1457863,
+      "sha256": "23af884208f8a8688fe3cd03277334dd28729a8c56a9f834bf3cb8f29ee07deb"
+    },
+    {
+      "path": "assets/tab-picture.png",
+      "bytes": 1222375,
+      "sha256": "ac7bcb4c5c10bd8f9825c9d7e73365fcbd504fc7d0bf2db99d22a5c4626f2637"
+    },
+    {
+      "path": "assets/tab-story.png",
+      "bytes": 1135153,
+      "sha256": "08f92afd7365ca04c3f4789e07040f55eaf5faf283ba7cc21dba78bae14585e1"
+    },
+    {
+      "path": "canoe-trip/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "canoe-trip/app.js",
+      "bytes": 16667,
+      "sha256": "1b507603191e0faf317c319d21d82289faa8543c334eeafa31098061bf892fc7"
+    },
+    {
+      "path": "canoe-trip/assets/cover.svg",
+      "bytes": 3799,
+      "sha256": "7d519d26e2971c673bc03d840f2d10470aa03fd3d378bda4b9d586243fd93aa8"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/chapter-picture-groups-v1.png",
+      "bytes": 1881580,
+      "sha256": "9aec19acb0fec7b4f93a4af88ffe35e887da7149c951b92a7735ac7a3e02d38e"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/page-1-pixar.png",
+      "bytes": 2882755,
+      "sha256": "8c2f8aa18948c25e3854cbd50b71b91f656890e09205702146d8389d7a95e222"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/page-2-pixar.png",
+      "bytes": 2736203,
+      "sha256": "78d17f275e207b554959b36fce667abb6ac85c8c4d886ac81cdfcaff2192f222"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/page-3-pixar.png",
+      "bytes": 2723175,
+      "sha256": "537b1b53c67ab5b0929661f5acdc54428c3f767063f4cd66f95869598aea952d"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/page-4-pixar.png",
+      "bytes": 2789971,
+      "sha256": "1d4726aa60d065231d71367bd52f5c316207f2526c166b40d7a002b02737d9ac"
+    },
+    {
+      "path": "canoe-trip/assets/illustrations/vocabulary-pixar.png",
+      "bytes": 1543554,
+      "sha256": "b71496059519c24d024822c263a71bdc6608830a82bdcd9d0313d5a2407cfd58"
+    },
+    {
+      "path": "canoe-trip/assets/page-1.svg",
+      "bytes": 3799,
+      "sha256": "7d519d26e2971c673bc03d840f2d10470aa03fd3d378bda4b9d586243fd93aa8"
+    },
+    {
+      "path": "canoe-trip/assets/page-2.svg",
+      "bytes": 3799,
+      "sha256": "7d519d26e2971c673bc03d840f2d10470aa03fd3d378bda4b9d586243fd93aa8"
+    },
+    {
+      "path": "canoe-trip/assets/page-3.svg",
+      "bytes": 3799,
+      "sha256": "7d519d26e2971c673bc03d840f2d10470aa03fd3d378bda4b9d586243fd93aa8"
+    },
+    {
+      "path": "canoe-trip/assets/page-4.svg",
+      "bytes": 3799,
+      "sha256": "7d519d26e2971c673bc03d840f2d10470aa03fd3d378bda4b9d586243fd93aa8"
+    },
+    {
+      "path": "canoe-trip/bike.js",
+      "bytes": 11035,
+      "sha256": "652a095657bac0f8bc7e9179dd1c630e5e6d415dc28689a7d769449772400c06"
+    },
+    {
+      "path": "canoe-trip/cloze.js",
+      "bytes": 13594,
+      "sha256": "fa00bbbbf9617858bc35614f29c1a9c5e84d5d236bb846b8de7770b7dbeca202"
+    },
+    {
+      "path": "canoe-trip/content.js",
+      "bytes": 310038,
+      "sha256": "93307366c766959cc2c7f0af294c929d814bdb010ac847ecce546f5e27215c3d"
+    },
+    {
+      "path": "canoe-trip/drag-clarity.css",
+      "bytes": 11126,
+      "sha256": "f8b8911355a382ca7fc8a863be70c7877dde1cdcb4504070ea29fb035e9590f7"
+    },
+    {
+      "path": "canoe-trip/drag-clarity.js",
+      "bytes": 12571,
+      "sha256": "46967cb3aa1c098614b864b92ec25f823a4218eb7ab9a891c1ee129541686f82"
+    },
+    {
+      "path": "canoe-trip/drag-contact.js",
+      "bytes": 2170,
+      "sha256": "b148962cc50bf0edff03bc33028bfb28fec8c6ebf0d0005f6b26bd1f7ca6078b"
+    },
+    {
+      "path": "canoe-trip/extra-assessment.css",
+      "bytes": 4763,
+      "sha256": "523bd5fae6b7017a6823d69c6286c62ecf1e2ff0f57134b02c1037eb444a35b4"
+    },
+    {
+      "path": "canoe-trip/extra-assessment.js",
+      "bytes": 15636,
+      "sha256": "267bde7b0d6bbf8c6eb5b4aaf19515d6685695e591873b8293a6a9be64be1de2"
+    },
+    {
+      "path": "canoe-trip/index.html",
+      "bytes": 2812,
+      "sha256": "58fa05e0f48707986e58db3e117b2212899403a67e68db9ac5e6ac1a03d739b2"
+    },
+    {
+      "path": "canoe-trip/november.css",
+      "bytes": 24257,
+      "sha256": "9687b714dad5bc0848d03c39d892ad5f658c767eade401965b09afb67f15802a"
+    },
+    {
+      "path": "canoe-trip/page-help.css",
+      "bytes": 3371,
+      "sha256": "81daa9afcb215d7cbbcecc78945bbfdd9d5617d8b8a4096b4d2ed671eeebef26"
+    },
+    {
+      "path": "canoe-trip/page-help.js",
+      "bytes": 10011,
+      "sha256": "b0cc7252bf667dc5acdc79213fe3894de3cce7f87a196dec25d0eb95170ab318"
+    },
+    {
+      "path": "canoe-trip/project.css",
+      "bytes": 8294,
+      "sha256": "0a0cd213472f3f9896dfc06e48d4bc0f862f070189b8e21006184e95ee9a3b41"
+    },
+    {
+      "path": "canoe-trip/question-layout.css",
+      "bytes": 35224,
+      "sha256": "895db199150c8d89e91f02be9caa77a08526b6059f80286f2c69eb6afef6adc1"
+    },
+    {
+      "path": "canoe-trip/question-layout.js",
+      "bytes": 25309,
+      "sha256": "dbb5f8bed355b5b5ea31a2aa3fb305f61bba7887d05c7a949a7e1a9a41008d9d"
+    },
+    {
+      "path": "canoe-trip/reader-pages.js",
+      "bytes": 3255,
+      "sha256": "fee9fb330027f3ddf2a0a71c0082aa7a4b31f53ac3b71d04ac7a5829dc041a6b"
+    },
+    {
+      "path": "canoe-trip/reading-answers.js",
+      "bytes": 9857,
+      "sha256": "c716ad8b9850a17293dfcfdf46574aa7b38dd7bd186918c42a83f5cfd9ea036c"
+    },
+    {
+      "path": "canoe-trip/reading-gate.js",
+      "bytes": 3308,
+      "sha256": "baf1f32ca34264d67110e7126ba562a96bb48e5edb15a3c6a77a10ca892afa0f"
+    },
+    {
+      "path": "canoe-trip/reading-layout.js",
+      "bytes": 3906,
+      "sha256": "1c732367111adfe80fd2bc79cf2eb25806d76f97104b44336ff10b8e5a1ab317"
+    },
+    {
+      "path": "canoe-trip/reading-presentation.js",
+      "bytes": 2240,
+      "sha256": "f16a2c242c1580052d9cb5dd78578739020b977f379679c24fc68c19488c88bc"
+    },
+    {
+      "path": "canoe-trip/reading-tools.js",
+      "bytes": 8241,
+      "sha256": "bb4dd5f43ee9b7e6a8c795ff9931f94ba1cce4774b414c6741826ad58b1a922e"
+    },
+    {
+      "path": "canoe-trip/report-art.js",
+      "bytes": 18686712,
+      "sha256": "bfdad28d2a1a3662f68d9f973cbb31155fb37ae3199e99a59737e1c7c3118bb5"
+    },
+    {
+      "path": "canoe-trip/reporting.js",
+      "bytes": 33505,
+      "sha256": "85b2607080d29bd84e40d37570b96a8f2642414eccc29d89b69a3f6f8eae6938"
+    },
+    {
+      "path": "canoe-trip/responsive.css",
+      "bytes": 19747,
+      "sha256": "15cece6b39989015713cb6894a8f9fc43353a794f50ac83af23c226078777eff"
+    },
+    {
+      "path": "canoe-trip/result-template.js",
+      "bytes": 117272,
+      "sha256": "8054cc45353d28cdd93d6c69cd272701b6c4b8e4db4a7bda4bd293a37ce43c55"
+    },
+    {
+      "path": "canoe-trip/save-integrity.js",
+      "bytes": 5960,
+      "sha256": "72ca9030fcc10dfbfb6b7d3a79326052ffa232f4d6fa5819032d6851f5a1f45b"
+    },
+    {
+      "path": "canoe-trip/screen-tools.js",
+      "bytes": 2360,
+      "sha256": "e0335b35d02ef746f42330e0a1511e3bf3f497425a7524185228c8009f9afd3e"
+    },
+    {
+      "path": "canoe-trip/shared.js",
+      "bytes": 10399,
+      "sha256": "c147f560833e7e6813817aa743e0b86b3d417b63b08f27935488681f30e582af"
+    },
+    {
+      "path": "canoe-trip/story-navigation.css",
+      "bytes": 11467,
+      "sha256": "5cb1674562559411ae9743bccd9cc72699dd27aaa75af7d30715c7b46bb78b1f"
+    },
+    {
+      "path": "canoe-trip/story-progress.js",
+      "bytes": 3824,
+      "sha256": "85f1297299e0ecec3d5e35923f003541b1bd12cfc9e8c59be6f1ac2d81cf5b2c"
+    },
+    {
+      "path": "canoe-trip/style.css",
+      "bytes": 68156,
+      "sha256": "16d93790b73e41aa0999aec436dd94a8a5bcc93229211933f44a4bfaf328d6aa"
+    },
+    {
+      "path": "canoe-trip/Teacher-Guide.txt",
+      "bytes": 3483,
+      "sha256": "f7452923bd5cf70369d24144beae42384177585bc534990433d0dee1a4b09de8"
+    },
+    {
+      "path": "Chapter-Picture-Prompts.json",
+      "bytes": 9932,
+      "sha256": "323a5ae07db1a699ee8725a28de1f2a07d69906a838304f16dfb8bc990e8428b"
+    },
+    {
+      "path": "Deployment-README.txt",
+      "bytes": 1414,
+      "sha256": "bcd3d2860c02c14ce66b630a38d7b4a50a30b9dd586352fc6ac02b5ccdcd99f9"
+    },
+    {
+      "path": "hub.css",
+      "bytes": 4205,
+      "sha256": "fdcac589d7f4c09c994754266864760805b4efd73daed0871d2f4ef07189d1c6"
+    },
+    {
+      "path": "Illustration-Prompts.json",
+      "bytes": 24263,
+      "sha256": "38837773e2abdd4ba4eee86a9c6561ded67fa14e868de3770429cdc93fffb2be"
+    },
+    {
+      "path": "Illustrations.html",
+      "bytes": 7108,
+      "sha256": "c3b4fe98bcfe2f20c8ff3fad9e5d02a23979a693c9a6fc565ea19c927e89eb1a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2421,
+      "sha256": "b5ff2195da462e245c75aa1a14117965d1b775faa17491f547da438b631b11ce"
+    },
+    {
+      "path": "obstacle-course/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "obstacle-course/app.js",
+      "bytes": 16703,
+      "sha256": "d08847842987cc9f9f2bb849aa9a16e6a9c97ded861fbd719e993d6ec1dab3aa"
+    },
+    {
+      "path": "obstacle-course/assets/cover.svg",
+      "bytes": 2563,
+      "sha256": "9f051e7962cfddf6554d82b7df7875b0296e2ea337081ad085fdca7137b4835c"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/chapter-picture-groups-v1.png",
+      "bytes": 1845034,
+      "sha256": "ae81ca93cb59473b9da50496547231204cdbae5f2952b0b48dd0a02c226d973f"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/page-1-pixar.png",
+      "bytes": 3176474,
+      "sha256": "fe2618ef24eb7b15524033a973bcdf5c56143b00e0af8a6dc6ba6ed33a677f68"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/page-2-pixar.png",
+      "bytes": 3107255,
+      "sha256": "91581217e7491128d5f810d8b792d17f6aed2b6982c582ae9d212e648cb48881"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/page-3-pixar.png",
+      "bytes": 2991318,
+      "sha256": "a6a6b869d18ba77a7962fb63caecc9b8398244b7212986f604b39af41b901100"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/page-4-pixar.png",
+      "bytes": 3000135,
+      "sha256": "d305049d43b2f6e4d0a8499db7773356f3d978dcb2eb558e876b2d5f6e0666ea"
+    },
+    {
+      "path": "obstacle-course/assets/illustrations/vocabulary-pixar.png",
+      "bytes": 1582127,
+      "sha256": "f1cac7167a7aff87bc5a45145fc707020e3925b1f403ecc1124ac6166be032d5"
+    },
+    {
+      "path": "obstacle-course/assets/page-1.svg",
+      "bytes": 2563,
+      "sha256": "9f051e7962cfddf6554d82b7df7875b0296e2ea337081ad085fdca7137b4835c"
+    },
+    {
+      "path": "obstacle-course/assets/page-2.svg",
+      "bytes": 2563,
+      "sha256": "c1669d9f2de1873efa4e41365f8ea3456df93236c9db578a4813fb7bc25d5148"
+    },
+    {
+      "path": "obstacle-course/assets/page-3.svg",
+      "bytes": 2563,
+      "sha256": "9f051e7962cfddf6554d82b7df7875b0296e2ea337081ad085fdca7137b4835c"
+    },
+    {
+      "path": "obstacle-course/assets/page-4.svg",
+      "bytes": 2563,
+      "sha256": "9f051e7962cfddf6554d82b7df7875b0296e2ea337081ad085fdca7137b4835c"
+    },
+    {
+      "path": "obstacle-course/bike.js",
+      "bytes": 11215,
+      "sha256": "e693f28295fbc9d4de3dbb4ce860e73f224b7fa22bf3bdc27d9e7d10e9d6c036"
+    },
+    {
+      "path": "obstacle-course/cloze.js",
+      "bytes": 13594,
+      "sha256": "fa00bbbbf9617858bc35614f29c1a9c5e84d5d236bb846b8de7770b7dbeca202"
+    },
+    {
+      "path": "obstacle-course/content.js",
+      "bytes": 303115,
+      "sha256": "3d6d715fc7a0e137e4b41b4728bf6e3ad4e36eb268afaf2d22cd09c28617c2d0"
+    },
+    {
+      "path": "obstacle-course/drag-clarity.css",
+      "bytes": 11126,
+      "sha256": "f8b8911355a382ca7fc8a863be70c7877dde1cdcb4504070ea29fb035e9590f7"
+    },
+    {
+      "path": "obstacle-course/drag-clarity.js",
+      "bytes": 12581,
+      "sha256": "8458e551c3d487e0867fa485f55b90d974a231be91064e70e830d680625b2e96"
+    },
+    {
+      "path": "obstacle-course/drag-contact.js",
+      "bytes": 2170,
+      "sha256": "b148962cc50bf0edff03bc33028bfb28fec8c6ebf0d0005f6b26bd1f7ca6078b"
+    },
+    {
+      "path": "obstacle-course/extra-assessment.css",
+      "bytes": 4763,
+      "sha256": "523bd5fae6b7017a6823d69c6286c62ecf1e2ff0f57134b02c1037eb444a35b4"
+    },
+    {
+      "path": "obstacle-course/extra-assessment.js",
+      "bytes": 15636,
+      "sha256": "267bde7b0d6bbf8c6eb5b4aaf19515d6685695e591873b8293a6a9be64be1de2"
+    },
+    {
+      "path": "obstacle-course/index.html",
+      "bytes": 2822,
+      "sha256": "c157f738b5201b3ba8e0c52585db10c1395ff127cc0c0599cea198ffecabe1fb"
+    },
+    {
+      "path": "obstacle-course/november.css",
+      "bytes": 24257,
+      "sha256": "9687b714dad5bc0848d03c39d892ad5f658c767eade401965b09afb67f15802a"
+    },
+    {
+      "path": "obstacle-course/page-help.css",
+      "bytes": 3371,
+      "sha256": "81daa9afcb215d7cbbcecc78945bbfdd9d5617d8b8a4096b4d2ed671eeebef26"
+    },
+    {
+      "path": "obstacle-course/page-help.js",
+      "bytes": 10011,
+      "sha256": "b0cc7252bf667dc5acdc79213fe3894de3cce7f87a196dec25d0eb95170ab318"
+    },
+    {
+      "path": "obstacle-course/project.css",
+      "bytes": 8294,
+      "sha256": "0a0cd213472f3f9896dfc06e48d4bc0f862f070189b8e21006184e95ee9a3b41"
+    },
+    {
+      "path": "obstacle-course/question-layout.css",
+      "bytes": 35224,
+      "sha256": "895db199150c8d89e91f02be9caa77a08526b6059f80286f2c69eb6afef6adc1"
+    },
+    {
+      "path": "obstacle-course/question-layout.js",
+      "bytes": 25309,
+      "sha256": "dbb5f8bed355b5b5ea31a2aa3fb305f61bba7887d05c7a949a7e1a9a41008d9d"
+    },
+    {
+      "path": "obstacle-course/reader-pages.js",
+      "bytes": 3255,
+      "sha256": "fee9fb330027f3ddf2a0a71c0082aa7a4b31f53ac3b71d04ac7a5829dc041a6b"
+    },
+    {
+      "path": "obstacle-course/reading-answers.js",
+      "bytes": 9857,
+      "sha256": "c716ad8b9850a17293dfcfdf46574aa7b38dd7bd186918c42a83f5cfd9ea036c"
+    },
+    {
+      "path": "obstacle-course/reading-gate.js",
+      "bytes": 3308,
+      "sha256": "baf1f32ca34264d67110e7126ba562a96bb48e5edb15a3c6a77a10ca892afa0f"
+    },
+    {
+      "path": "obstacle-course/reading-layout.js",
+      "bytes": 3906,
+      "sha256": "1c732367111adfe80fd2bc79cf2eb25806d76f97104b44336ff10b8e5a1ab317"
+    },
+    {
+      "path": "obstacle-course/reading-presentation.js",
+      "bytes": 2240,
+      "sha256": "f16a2c242c1580052d9cb5dd78578739020b977f379679c24fc68c19488c88bc"
+    },
+    {
+      "path": "obstacle-course/reading-tools.js",
+      "bytes": 8241,
+      "sha256": "bb4dd5f43ee9b7e6a8c795ff9931f94ba1cce4774b414c6741826ad58b1a922e"
+    },
+    {
+      "path": "obstacle-course/report-art.js",
+      "bytes": 20602436,
+      "sha256": "b911ebe4c77025a5a9049d0a63ec307e6808a0268db5475022d01e3f99df2448"
+    },
+    {
+      "path": "obstacle-course/reporting.js",
+      "bytes": 33560,
+      "sha256": "122a561f8fc57980d84288c6a5fa13be51f9e71ce28d39b222295b7e0769e8aa"
+    },
+    {
+      "path": "obstacle-course/responsive.css",
+      "bytes": 19747,
+      "sha256": "15cece6b39989015713cb6894a8f9fc43353a794f50ac83af23c226078777eff"
+    },
+    {
+      "path": "obstacle-course/result-template.js",
+      "bytes": 117272,
+      "sha256": "8054cc45353d28cdd93d6c69cd272701b6c4b8e4db4a7bda4bd293a37ce43c55"
+    },
+    {
+      "path": "obstacle-course/save-integrity.js",
+      "bytes": 5960,
+      "sha256": "72ca9030fcc10dfbfb6b7d3a79326052ffa232f4d6fa5819032d6851f5a1f45b"
+    },
+    {
+      "path": "obstacle-course/screen-tools.js",
+      "bytes": 2360,
+      "sha256": "e0335b35d02ef746f42330e0a1511e3bf3f497425a7524185228c8009f9afd3e"
+    },
+    {
+      "path": "obstacle-course/shared.js",
+      "bytes": 10399,
+      "sha256": "c147f560833e7e6813817aa743e0b86b3d417b63b08f27935488681f30e582af"
+    },
+    {
+      "path": "obstacle-course/story-navigation.css",
+      "bytes": 11467,
+      "sha256": "5cb1674562559411ae9743bccd9cc72699dd27aaa75af7d30715c7b46bb78b1f"
+    },
+    {
+      "path": "obstacle-course/story-progress.js",
+      "bytes": 3824,
+      "sha256": "85f1297299e0ecec3d5e35923f003541b1bd12cfc9e8c59be6f1ac2d81cf5b2c"
+    },
+    {
+      "path": "obstacle-course/style.css",
+      "bytes": 68156,
+      "sha256": "16d93790b73e41aa0999aec436dd94a8a5bcc93229211933f44a4bfaf328d6aa"
+    },
+    {
+      "path": "obstacle-course/Teacher-Guide.txt",
+      "bytes": 3488,
+      "sha256": "15b628a9bcd7b4988faff4da5174eee45007d107a5d27379a2bf3616247cfc99"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3399,
+      "sha256": "1610bfc0a57aac580be3f68bf1e4fdb117212bf811871ff438b9989621716778"
+    },
+    {
+      "path": "rock-collecting/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "rock-collecting/app.js",
+      "bytes": 16715,
+      "sha256": "c12015da3a0cd16727e986578cee985d814034f5e1cbe76637b8437e4d35e0d0"
+    },
+    {
+      "path": "rock-collecting/assets/cover.svg",
+      "bytes": 3002,
+      "sha256": "1225552fcd5ef6d4936214f8689214b08571b796562040986ce5f2d52c77753c"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/chapter-picture-groups-v1.png",
+      "bytes": 1882476,
+      "sha256": "39bbd5f731b75d6804c9173cab8ab4482ba90754bf0ffa5abdafbfe1361b4d9e"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/page-1-pixar.png",
+      "bytes": 2812474,
+      "sha256": "7faa2ee3543845ad6d0c89970ac80785267ea0713563e5a37c38b6c01b3daeb1"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/page-2-pixar.png",
+      "bytes": 3018435,
+      "sha256": "41847714e776349c6767db1499ffbd66074f2c6bca55dc2538be175832226a2b"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/page-3-pixar.png",
+      "bytes": 3004005,
+      "sha256": "4e4ea98e21fc94ec85aaa950a3ae300d3c8fb553ccce9313fe828b202c8e0091"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/page-4-pixar.png",
+      "bytes": 2799796,
+      "sha256": "de52a6ebe8c9b9d75c8e5e3ab37e0a42874607cb8377e62f06ec945dbdc4e5b3"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/six-rock-descriptions-v1.png",
+      "bytes": 1674917,
+      "sha256": "43724a58944509b1ddf0f67a2440340150736e7047fdb14058fb05bbdce376fa"
+    },
+    {
+      "path": "rock-collecting/assets/illustrations/vocabulary-pixar.png",
+      "bytes": 2021335,
+      "sha256": "415244578e972303190ce452ca7ff9972be321ca68d27ea048bd83cc2e9bc29b"
+    },
+    {
+      "path": "rock-collecting/assets/page-1.svg",
+      "bytes": 3002,
+      "sha256": "1225552fcd5ef6d4936214f8689214b08571b796562040986ce5f2d52c77753c"
+    },
+    {
+      "path": "rock-collecting/assets/page-2.svg",
+      "bytes": 3002,
+      "sha256": "1225552fcd5ef6d4936214f8689214b08571b796562040986ce5f2d52c77753c"
+    },
+    {
+      "path": "rock-collecting/assets/page-3.svg",
+      "bytes": 3002,
+      "sha256": "1225552fcd5ef6d4936214f8689214b08571b796562040986ce5f2d52c77753c"
+    },
+    {
+      "path": "rock-collecting/assets/page-4.svg",
+      "bytes": 3002,
+      "sha256": "1225552fcd5ef6d4936214f8689214b08571b796562040986ce5f2d52c77753c"
+    },
+    {
+      "path": "rock-collecting/bike.js",
+      "bytes": 11833,
+      "sha256": "d7df227cad256d464abbc2bd3ac753b1b85c0920f2037fb000f3d8e0577451d2"
+    },
+    {
+      "path": "rock-collecting/cloze.js",
+      "bytes": 13594,
+      "sha256": "fa00bbbbf9617858bc35614f29c1a9c5e84d5d236bb846b8de7770b7dbeca202"
+    },
+    {
+      "path": "rock-collecting/content.js",
+      "bytes": 321129,
+      "sha256": "a5238841e41b58ec791955c5c5174c2c85e6ee0f5a2b0e2a9b6e8b9c43fed703"
+    },
+    {
+      "path": "rock-collecting/drag-clarity.css",
+      "bytes": 11126,
+      "sha256": "f8b8911355a382ca7fc8a863be70c7877dde1cdcb4504070ea29fb035e9590f7"
+    },
+    {
+      "path": "rock-collecting/drag-clarity.js",
+      "bytes": 12581,
+      "sha256": "34c61386243f8d2941407d605219dbbd9463bc9949dfb20075c060b5636b3214"
+    },
+    {
+      "path": "rock-collecting/drag-contact.js",
+      "bytes": 2170,
+      "sha256": "b148962cc50bf0edff03bc33028bfb28fec8c6ebf0d0005f6b26bd1f7ca6078b"
+    },
+    {
+      "path": "rock-collecting/extra-assessment.css",
+      "bytes": 4763,
+      "sha256": "523bd5fae6b7017a6823d69c6286c62ecf1e2ff0f57134b02c1037eb444a35b4"
+    },
+    {
+      "path": "rock-collecting/extra-assessment.js",
+      "bytes": 15636,
+      "sha256": "267bde7b0d6bbf8c6eb5b4aaf19515d6685695e591873b8293a6a9be64be1de2"
+    },
+    {
+      "path": "rock-collecting/index.html",
+      "bytes": 2822,
+      "sha256": "4a27e82822fd82dd1d1ffe2f2af9c8bdcccbbf9038b2ffee5d4567f782174e3e"
+    },
+    {
+      "path": "rock-collecting/november.css",
+      "bytes": 24257,
+      "sha256": "9687b714dad5bc0848d03c39d892ad5f658c767eade401965b09afb67f15802a"
+    },
+    {
+      "path": "rock-collecting/page-help.css",
+      "bytes": 3371,
+      "sha256": "81daa9afcb215d7cbbcecc78945bbfdd9d5617d8b8a4096b4d2ed671eeebef26"
+    },
+    {
+      "path": "rock-collecting/page-help.js",
+      "bytes": 10011,
+      "sha256": "b0cc7252bf667dc5acdc79213fe3894de3cce7f87a196dec25d0eb95170ab318"
+    },
+    {
+      "path": "rock-collecting/project.css",
+      "bytes": 8294,
+      "sha256": "0a0cd213472f3f9896dfc06e48d4bc0f862f070189b8e21006184e95ee9a3b41"
+    },
+    {
+      "path": "rock-collecting/question-layout.css",
+      "bytes": 35224,
+      "sha256": "895db199150c8d89e91f02be9caa77a08526b6059f80286f2c69eb6afef6adc1"
+    },
+    {
+      "path": "rock-collecting/question-layout.js",
+      "bytes": 25309,
+      "sha256": "dbb5f8bed355b5b5ea31a2aa3fb305f61bba7887d05c7a949a7e1a9a41008d9d"
+    },
+    {
+      "path": "rock-collecting/reader-pages.js",
+      "bytes": 3255,
+      "sha256": "fee9fb330027f3ddf2a0a71c0082aa7a4b31f53ac3b71d04ac7a5829dc041a6b"
+    },
+    {
+      "path": "rock-collecting/reading-answers.js",
+      "bytes": 9857,
+      "sha256": "c716ad8b9850a17293dfcfdf46574aa7b38dd7bd186918c42a83f5cfd9ea036c"
+    },
+    {
+      "path": "rock-collecting/reading-gate.js",
+      "bytes": 3308,
+      "sha256": "baf1f32ca34264d67110e7126ba562a96bb48e5edb15a3c6a77a10ca892afa0f"
+    },
+    {
+      "path": "rock-collecting/reading-layout.js",
+      "bytes": 3906,
+      "sha256": "1c732367111adfe80fd2bc79cf2eb25806d76f97104b44336ff10b8e5a1ab317"
+    },
+    {
+      "path": "rock-collecting/reading-presentation.js",
+      "bytes": 2240,
+      "sha256": "f16a2c242c1580052d9cb5dd78578739020b977f379679c24fc68c19488c88bc"
+    },
+    {
+      "path": "rock-collecting/reading-tools.js",
+      "bytes": 8241,
+      "sha256": "bb4dd5f43ee9b7e6a8c795ff9931f94ba1cce4774b414c6741826ad58b1a922e"
+    },
+    {
+      "path": "rock-collecting/report-art.js",
+      "bytes": 19263144,
+      "sha256": "343ee9c1f7de57bd30bd6e81ca86d2b4738a3d156e884e9ac90b1a143d0d5428"
+    },
+    {
+      "path": "rock-collecting/reporting.js",
+      "bytes": 33560,
+      "sha256": "99e1c47858dbac8382b5fe1ca11a1c68b38a70fcb9c4fb8f9a2e4a3d6975d5b5"
+    },
+    {
+      "path": "rock-collecting/responsive.css",
+      "bytes": 19747,
+      "sha256": "15cece6b39989015713cb6894a8f9fc43353a794f50ac83af23c226078777eff"
+    },
+    {
+      "path": "rock-collecting/result-template.js",
+      "bytes": 117272,
+      "sha256": "8054cc45353d28cdd93d6c69cd272701b6c4b8e4db4a7bda4bd293a37ce43c55"
+    },
+    {
+      "path": "rock-collecting/Rock-Background.md",
+      "bytes": 532,
+      "sha256": "288f47dab814cc4eb168c454ee8dd2c0a00a1113d764e9286bc2e257bb6ca5b5"
+    },
+    {
+      "path": "rock-collecting/save-integrity.js",
+      "bytes": 5960,
+      "sha256": "72ca9030fcc10dfbfb6b7d3a79326052ffa232f4d6fa5819032d6851f5a1f45b"
+    },
+    {
+      "path": "rock-collecting/screen-tools.js",
+      "bytes": 2360,
+      "sha256": "e0335b35d02ef746f42330e0a1511e3bf3f497425a7524185228c8009f9afd3e"
+    },
+    {
+      "path": "rock-collecting/shared.js",
+      "bytes": 10399,
+      "sha256": "c147f560833e7e6813817aa743e0b86b3d417b63b08f27935488681f30e582af"
+    },
+    {
+      "path": "rock-collecting/story-navigation.css",
+      "bytes": 11467,
+      "sha256": "5cb1674562559411ae9743bccd9cc72699dd27aaa75af7d30715c7b46bb78b1f"
+    },
+    {
+      "path": "rock-collecting/story-progress.js",
+      "bytes": 3824,
+      "sha256": "85f1297299e0ecec3d5e35923f003541b1bd12cfc9e8c59be6f1ac2d81cf5b2c"
+    },
+    {
+      "path": "rock-collecting/style.css",
+      "bytes": 68156,
+      "sha256": "16d93790b73e41aa0999aec436dd94a8a5bcc93229211933f44a4bfaf328d6aa"
+    },
+    {
+      "path": "rock-collecting/Teacher-Guide.txt",
+      "bytes": 3488,
+      "sha256": "4d99d5320643df7cc9649e90ec5ff70b2f9cb017211f49a8d3f62129a50e2b2e"
+    },
+    {
+      "path": "Six-Rock-Prompts.json",
+      "bytes": 1618,
+      "sha256": "6ef5327bab2dbceaa9522adf28d072d5b2585de348b5156a12c74dc404b6b93a"
+    },
+    {
+      "path": "soap-box-racer/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "soap-box-racer/app.js",
+      "bytes": 16688,
+      "sha256": "ecd065be5686d45303800b916cfc8dab8d59e46753264845f36df662280906e4"
+    },
+    {
+      "path": "soap-box-racer/assets/cover.svg",
+      "bytes": 2868,
+      "sha256": "4fd640a8fdd269ebe4b27055899dcb32b088d791d62ec7a0f9638f868c0a5078"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/chapter-picture-groups-v1.png",
+      "bytes": 1875111,
+      "sha256": "3cc606023954b9824e9c359c2692e116a1df3bc7f9f720c5cb8aa620db5bf50a"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/page-1-pixar.png",
+      "bytes": 2914471,
+      "sha256": "4e322a2c1f138487b2641f9fa0e1ae4b85b0e3341248199fb2537ce2d130e370"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/page-2-pixar-rope-v2.png",
+      "bytes": 2752675,
+      "sha256": "e72b001cf5566fa83057a6f56f533f78f7bb97243895e230cee3fc9b1de4075a"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/page-2-pixar.png",
+      "bytes": 3035667,
+      "sha256": "913efd48507d818cccc7005aa89177e1f867930ec6c011b982e13f9b80d1a3f8"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/page-3-pixar.png",
+      "bytes": 2893347,
+      "sha256": "edb7adad9417ed59fa8e8a703adb599e6406745414559195a96021cd6cd71793"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/page-4-pixar.png",
+      "bytes": 3117083,
+      "sha256": "cc88d3b99e74a26c0dac37c268458004e7466e51af2b04a5ecfb487513c70156"
+    },
+    {
+      "path": "soap-box-racer/assets/illustrations/vocabulary-pixar.png",
+      "bytes": 1803525,
+      "sha256": "cc2df9fd690cf6203fa1d7320a2e72f4c6e08ea063974c59ebafef32f911321c"
+    },
+    {
+      "path": "soap-box-racer/assets/page-1.svg",
+      "bytes": 2868,
+      "sha256": "4fd640a8fdd269ebe4b27055899dcb32b088d791d62ec7a0f9638f868c0a5078"
+    },
+    {
+      "path": "soap-box-racer/assets/page-2.svg",
+      "bytes": 2868,
+      "sha256": "4fd640a8fdd269ebe4b27055899dcb32b088d791d62ec7a0f9638f868c0a5078"
+    },
+    {
+      "path": "soap-box-racer/assets/page-3.svg",
+      "bytes": 2979,
+      "sha256": "44f5decfd2f45247850758dbe9a1e933d3bd533ebac377fd00d3fd92fbe2f034"
+    },
+    {
+      "path": "soap-box-racer/assets/page-4.svg",
+      "bytes": 3067,
+      "sha256": "2707f8233dcda59e206c87bf245eea089ac1b20a62d2e9899dea44b92ab8c556"
+    },
+    {
+      "path": "soap-box-racer/bike.js",
+      "bytes": 10996,
+      "sha256": "049663a97c4a8e37b132d924e399e57d71fe84a6d6a13720342ef4b0739a4fe5"
+    },
+    {
+      "path": "soap-box-racer/cloze.js",
+      "bytes": 13594,
+      "sha256": "fa00bbbbf9617858bc35614f29c1a9c5e84d5d236bb846b8de7770b7dbeca202"
+    },
+    {
+      "path": "soap-box-racer/content.js",
+      "bytes": 299338,
+      "sha256": "c24c40591349f2999ea7d674d56d07d5d00f98c806c921ff458644df853b0cb1"
+    },
+    {
+      "path": "soap-box-racer/drag-clarity.css",
+      "bytes": 11126,
+      "sha256": "f8b8911355a382ca7fc8a863be70c7877dde1cdcb4504070ea29fb035e9590f7"
+    },
+    {
+      "path": "soap-box-racer/drag-clarity.js",
+      "bytes": 12579,
+      "sha256": "ccfe38a08847be7826ed65dc73251c5437813639e4fc94f317c3d6e3ffc7bf25"
+    },
+    {
+      "path": "soap-box-racer/drag-contact.js",
+      "bytes": 2170,
+      "sha256": "b148962cc50bf0edff03bc33028bfb28fec8c6ebf0d0005f6b26bd1f7ca6078b"
+    },
+    {
+      "path": "soap-box-racer/extra-assessment.css",
+      "bytes": 4763,
+      "sha256": "523bd5fae6b7017a6823d69c6286c62ecf1e2ff0f57134b02c1037eb444a35b4"
+    },
+    {
+      "path": "soap-box-racer/extra-assessment.js",
+      "bytes": 15636,
+      "sha256": "267bde7b0d6bbf8c6eb5b4aaf19515d6685695e591873b8293a6a9be64be1de2"
+    },
+    {
+      "path": "soap-box-racer/index.html",
+      "bytes": 2820,
+      "sha256": "f2855ea45c3d5b5647849cfc464e77f3a6fa633347f196a095b8821231c6cc93"
+    },
+    {
+      "path": "soap-box-racer/november.css",
+      "bytes": 24257,
+      "sha256": "9687b714dad5bc0848d03c39d892ad5f658c767eade401965b09afb67f15802a"
+    },
+    {
+      "path": "soap-box-racer/page-help.css",
+      "bytes": 3371,
+      "sha256": "81daa9afcb215d7cbbcecc78945bbfdd9d5617d8b8a4096b4d2ed671eeebef26"
+    },
+    {
+      "path": "soap-box-racer/page-help.js",
+      "bytes": 10011,
+      "sha256": "b0cc7252bf667dc5acdc79213fe3894de3cce7f87a196dec25d0eb95170ab318"
+    },
+    {
+      "path": "soap-box-racer/project.css",
+      "bytes": 8294,
+      "sha256": "0a0cd213472f3f9896dfc06e48d4bc0f862f070189b8e21006184e95ee9a3b41"
+    },
+    {
+      "path": "soap-box-racer/question-layout.css",
+      "bytes": 35224,
+      "sha256": "895db199150c8d89e91f02be9caa77a08526b6059f80286f2c69eb6afef6adc1"
+    },
+    {
+      "path": "soap-box-racer/question-layout.js",
+      "bytes": 25309,
+      "sha256": "dbb5f8bed355b5b5ea31a2aa3fb305f61bba7887d05c7a949a7e1a9a41008d9d"
+    },
+    {
+      "path": "soap-box-racer/reader-pages.js",
+      "bytes": 3255,
+      "sha256": "fee9fb330027f3ddf2a0a71c0082aa7a4b31f53ac3b71d04ac7a5829dc041a6b"
+    },
+    {
+      "path": "soap-box-racer/reading-answers.js",
+      "bytes": 9857,
+      "sha256": "c716ad8b9850a17293dfcfdf46574aa7b38dd7bd186918c42a83f5cfd9ea036c"
+    },
+    {
+      "path": "soap-box-racer/reading-gate.js",
+      "bytes": 3308,
+      "sha256": "baf1f32ca34264d67110e7126ba562a96bb48e5edb15a3c6a77a10ca892afa0f"
+    },
+    {
+      "path": "soap-box-racer/reading-layout.js",
+      "bytes": 3906,
+      "sha256": "1c732367111adfe80fd2bc79cf2eb25806d76f97104b44336ff10b8e5a1ab317"
+    },
+    {
+      "path": "soap-box-racer/reading-presentation.js",
+      "bytes": 2240,
+      "sha256": "f16a2c242c1580052d9cb5dd78578739020b977f379679c24fc68c19488c88bc"
+    },
+    {
+      "path": "soap-box-racer/reading-tools.js",
+      "bytes": 8241,
+      "sha256": "bb4dd5f43ee9b7e6a8c795ff9931f94ba1cce4774b414c6741826ad58b1a922e"
+    },
+    {
+      "path": "soap-box-racer/report-art.js",
+      "bytes": 19456296,
+      "sha256": "981101829e08080c0fac335a404f2b8122472a07263181c0e7453f9b7fca2b8a"
+    },
+    {
+      "path": "soap-box-racer/reporting.js",
+      "bytes": 33552,
+      "sha256": "7525c671ae262feee5ed389e54df2320b175b5c8dafec2c8cf62eeb204add606"
+    },
+    {
+      "path": "soap-box-racer/responsive.css",
+      "bytes": 19747,
+      "sha256": "15cece6b39989015713cb6894a8f9fc43353a794f50ac83af23c226078777eff"
+    },
+    {
+      "path": "soap-box-racer/result-template.js",
+      "bytes": 117272,
+      "sha256": "8054cc45353d28cdd93d6c69cd272701b6c4b8e4db4a7bda4bd293a37ce43c55"
+    },
+    {
+      "path": "soap-box-racer/save-integrity.js",
+      "bytes": 5960,
+      "sha256": "72ca9030fcc10dfbfb6b7d3a79326052ffa232f4d6fa5819032d6851f5a1f45b"
+    },
+    {
+      "path": "soap-box-racer/screen-tools.js",
+      "bytes": 2360,
+      "sha256": "e0335b35d02ef746f42330e0a1511e3bf3f497425a7524185228c8009f9afd3e"
+    },
+    {
+      "path": "soap-box-racer/shared.js",
+      "bytes": 10399,
+      "sha256": "c147f560833e7e6813817aa743e0b86b3d417b63b08f27935488681f30e582af"
+    },
+    {
+      "path": "soap-box-racer/story-navigation.css",
+      "bytes": 11467,
+      "sha256": "5cb1674562559411ae9743bccd9cc72699dd27aaa75af7d30715c7b46bb78b1f"
+    },
+    {
+      "path": "soap-box-racer/story-progress.js",
+      "bytes": 3824,
+      "sha256": "85f1297299e0ecec3d5e35923f003541b1bd12cfc9e8c59be6f1ac2d81cf5b2c"
+    },
+    {
+      "path": "soap-box-racer/style.css",
+      "bytes": 68156,
+      "sha256": "16d93790b73e41aa0999aec436dd94a8a5bcc93229211933f44a4bfaf328d6aa"
+    },
+    {
+      "path": "soap-box-racer/Teacher-Guide.txt",
+      "bytes": 3487,
+      "sha256": "64bc99373ab9eeae0dfab500a324c5d5c11954de296d334622869a7837a67445"
+    }
+  ]
+}

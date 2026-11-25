@@ -1,0 +1,125 @@
+{
+  "method": "Built-in image_gen, Pixar-style 3D chapter vocabulary atlases",
+  "assets": {
+    "rock-collecting": {
+      "workspace": "rock-collecting/assets/illustrations/chapter-picture-groups-v1.png",
+      "prompt": "Use case: illustration-story. Asset type: ONE square 4-by-4 vocabulary picture atlas, 16 objects in exactly 16 equal invisible square cells, for four chapters of a children's reading assessment. Original Pixar-style polished 3D rendering, charming realistic materials, clear silhouettes, warm soft studio light, gentle contact shadows. Background in ALL cells uniform warm ivory (#fffefa). A separate requested object is centred INSIDE THE CENTRAL 70% of each cell with generous margins so each can be displayed independently. Exactly four rows and four columns, no objects crossing cells. Row 1, left to right: one large round grey rock; one small red rock; a tan drawstring cloth bag; an empty shallow rectangular wooden tray.\nRow 2, left to right: a soft cleaning brush with wooden handle; a round hand lens with a short black handle; a dark grey rock visibly wet with water droplets and a small puddle; a warm yellow sun with simple rays, no face.\nRow 3, left to right: a low broad FLAT rock like a thin smooth grey slate pebble, very visibly flattened with a level top, seen in low three-quarter perspective; a tall rounded BUMPY grey rock with several obvious large rounded bumps and knobbles across its surface, seen at the same angle, clearly different from the flat rock; a small open brown cardboard box; a child's open hand with five natural fingers and a bit of wrist, no arm beyond the wrist.\nRow 4, left to right: an open notebook with blank white pages; one wooden pencil; a blank paper specimen label with short string; a small collection of FOUR visibly different stones together on an ivory surface, no container. The flat and bumpy rocks, if present, must differ unmistakably in SHAPE rather than just colour: flat has a thin broad level profile; bumpy has a knobbly uneven profile. No words, labels, numerals, watermarks, frames, divider lines, checkerboards, decorative panels, arrows or additional objects. Keep each illustrated object fully visible. No text even on maps or notebooks.",
+      "groups": [
+        [
+          "big rock",
+          "red rock",
+          "bag",
+          "tray"
+        ],
+        [
+          "brush",
+          "lens",
+          "wet rock",
+          "sun"
+        ],
+        [
+          "flat rock",
+          "bumpy rock",
+          "box",
+          "hand"
+        ],
+        [
+          "notebook",
+          "pencil",
+          "label",
+          "collection"
+        ]
+      ]
+    },
+    "soap-box-racer": {
+      "workspace": "soap-box-racer/assets/illustrations/chapter-picture-groups-v1.png",
+      "prompt": "Use case: illustration-story. Asset type: ONE square 4-by-4 vocabulary picture atlas, 16 objects in exactly 16 equal invisible square cells, for four chapters of a children's reading assessment. Original Pixar-style polished 3D rendering, charming realistic materials, clear silhouettes, warm soft studio light, gentle contact shadows. Background in ALL cells uniform warm ivory (#fffefa). A separate requested object is centred INSIDE THE CENTRAL 70% of each cell with generous margins so each can be displayed independently. Exactly four rows and four columns, no objects crossing cells. Row 1, left to right: a little red wooden soapbox racing car with four black wheels, rope steering and no motor or steering wheel; one simple wooden car seat; one small black rubber cart wheel with wooden hub; a loose loop of tan steering rope.\nRow 2, left to right: one large hexagonal silver nut with a threaded hole; a small silver spanner; one straight metal axle rod with a simple mounting collar; an open child's hand with five natural fingers.\nRow 3, left to right: one red bicycle helmet with black straps; a green fabric flag on a short pole; a red course cone; a small gentle grassy hill on an ivory base.\nRow 4, left to right: a gold five-pointed star award; a blue fabric flag on a short pole; one smiling friendly child waving, blue hoodie and dark hair; a short black and white chequered finish stripe across a little strip of path. The flat and bumpy rocks, if present, must differ unmistakably in SHAPE rather than just colour: flat has a thin broad level profile; bumpy has a knobbly uneven profile. No words, labels, numerals, watermarks, frames, divider lines, checkerboards, decorative panels, arrows or additional objects. Keep each illustrated object fully visible. No text even on maps or notebooks.",
+      "groups": [
+        [
+          "car",
+          "seat",
+          "wheel",
+          "rope"
+        ],
+        [
+          "nut",
+          "spanner",
+          "axle",
+          "hand"
+        ],
+        [
+          "helmet",
+          "flag",
+          "cone",
+          "hill"
+        ],
+        [
+          "star",
+          "blue flag",
+          "pal",
+          "finish line"
+        ]
+      ]
+    },
+    "obstacle-course": {
+      "workspace": "obstacle-course/assets/illustrations/chapter-picture-groups-v1.png",
+      "prompt": "Use case: illustration-story. Asset type: ONE square 4-by-4 vocabulary picture atlas, 16 objects in exactly 16 equal invisible square cells, for four chapters of a children's reading assessment. Original Pixar-style polished 3D rendering, charming realistic materials, clear silhouettes, warm soft studio light, gentle contact shadows. Background in ALL cells uniform warm ivory (#fffefa). A separate requested object is centred INSIDE THE CENTRAL 70% of each cell with generous margins so each can be displayed independently. Exactly four rows and four columns, no objects crossing cells. Row 1, left to right: one red cone; one upright yellow hoop; one short brown log with a flat cut end and bark; a folded course map showing a simple unlabelled winding line on blank cream paper, no letters or numbers.\nRow 2, left to right: one child's trainer-clad foot with a little ankle, no body; a friendly original child in an orange hoodie holding both arms straight out to the sides, arms very clearly visible; a small tuft of green grass; one very low wooden balance beam on two short supports.\nRow 3, left to right: one large upright yellow hoop; a short teal play tunnel open at one end; one friendly child's head with short black hair, no body; one open child's hand with five natural fingers.\nRow 4, left to right: a yellow finish flag on a short pole; a friendly broad smiling mouth as a simple 3D expression icon, no letters; two smiling original child friends standing side by side in blue and orange hoodies; a small strip of winding sandy park path with grass edges. The flat and bumpy rocks, if present, must differ unmistakably in SHAPE rather than just colour: flat has a thin broad level profile; bumpy has a knobbly uneven profile. No words, labels, numerals, watermarks, frames, divider lines, checkerboards, decorative panels, arrows or additional objects. Keep each illustrated object fully visible. No text even on maps or notebooks.",
+      "groups": [
+        [
+          "cone",
+          "hoop",
+          "log",
+          "map"
+        ],
+        [
+          "foot",
+          "arms",
+          "grass",
+          "beam"
+        ],
+        [
+          "big hoop",
+          "tunnel",
+          "head",
+          "hand"
+        ],
+        [
+          "flag",
+          "smile",
+          "pals",
+          "path"
+        ]
+      ]
+    },
+    "canoe-trip": {
+      "workspace": "canoe-trip/assets/illustrations/chapter-picture-groups-v1.png",
+      "prompt": "Use case: illustration-story. Asset type: ONE square 4-by-4 vocabulary picture atlas, 16 objects in exactly 16 equal invisible square cells, for four chapters of a children's reading assessment. Original Pixar-style polished 3D rendering, charming realistic materials, clear silhouettes, warm soft studio light, gentle contact shadows. Background in ALL cells uniform warm ivory (#fffefa). A separate requested object is centred INSIDE THE CENTRAL 70% of each cell with generous margins so each can be displayed independently. Exactly four rows and four columns, no objects crossing cells. Row 1, left to right: a terracotta open canoe with two wooden seats, no people; a bright orange life jacket with closed black clips; one large black plastic life-jacket buckle clip, both halves fastened; one wooden canoe seat.\nRow 2, left to right: one wooden canoe paddle; a little calm blue patch of lake water; one open child's hand with five natural fingers; several circular blue ripples on a tiny patch of still water.\nRow 3, left to right: one small brown mallard duck; a small clump of tall green lakeside reeds; a few green leaves blown sideways by visible curling soft wind streaks, no face or letters; a little calm sheltered blue bay curving into a green shoreline.\nRow 4, left to right: a small wooden dock above a patch of blue water; a coiled tan rope; a small yellow waterproof drawstring bag; a folded paper lake map with only a blue line and shoreline, no text, letters or numbers. The flat and bumpy rocks, if present, must differ unmistakably in SHAPE rather than just colour: flat has a thin broad level profile; bumpy has a knobbly uneven profile. No words, labels, numerals, watermarks, frames, divider lines, checkerboards, decorative panels, arrows or additional objects. Keep each illustrated object fully visible. No text even on maps or notebooks.",
+      "groups": [
+        [
+          "canoe",
+          "life jacket",
+          "clip",
+          "seat"
+        ],
+        [
+          "paddle",
+          "water",
+          "hand",
+          "ripples"
+        ],
+        [
+          "duck",
+          "reeds",
+          "wind",
+          "bay"
+        ],
+        [
+          "dock",
+          "rope",
+          "bag",
+          "map"
+        ]
+      ]
+    }
+  }
+}

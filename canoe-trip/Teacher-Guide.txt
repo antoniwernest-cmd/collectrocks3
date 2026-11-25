@@ -1,0 +1,19 @@
+Canoe Trip — E, F, G, L, M, N, P, R reading assessment
+
+Open index.html. Keep this folder and ../assets together.
+
+This project uses the exact Mountain Biking reader supplied by the teacher: ten substantial reading pages at P and four chapters at the other targets, movable story blanks, reading questions, same-page matching and a final themed picture notebook. Answers lock only after all story blanks, questions and matching pads are filled and every question/matching section has been opened. Incorrect completed answers may lock. A spinning lock appears beside an available Lock and save button.
+
+E and F have shorter passages and direct questions. L adds connected events, cause/effect and inference. P adds contrasting viewpoints, nuanced changes, vocabulary and figurative language. These are original instructional targets, not publisher-certified F&P benchmark texts. Review suitability for the individual reader. F&P assesses a combination of ten text characteristics: https://www.fountasandpinnell.com/faqs/assessment
+
+The story and choices stay silent. Voice is off until a teacher enters override 259 and enables directions. It stops when pages change and starts off again on reopen or reset. Mouse dragging, touch, tap placement and keyboard placement use the existing visible pads. Answers survive reopening on the same browser and picture ID. Each story and level stores work separately.
+
+Teacher result code: 259. The complete parent report with continuation pages when needed, PNG/print-to-PDF, detailed Excel results, CSV and JSON backup are retained. Print-to-PDF is available from View / print report after completion. Reset is available for the next student.
+
+M extends the L retelling with more connected descriptions and inference. N adds contrasting expectations and changing interpretations. R adds qualified reasoning, complex viewpoints, implicit themes and questions about how the author develops meaning. Each new target has distinct passage wording.
+
+Updated question structure: compact single-answer tick choices, missing-word dropdowns, story-idea dropdowns and draggable words with landing pads below Pixar-style pictures. Every answer section has its own Save & lock; all answer sections must be locked before the next page opens. E/F/G also include picture descriptions, with six rock descriptions at the end of Rock Collecting. L/M/N/P/R add more cloze, grammar, contractions and tense challenges. E uses shorter CVC-rich passages; G has distinct connected passages. E, F and G notebook questions include generated Pixar-style 3D scene illustrations.
+
+E, F and G each finish with a story-related diagram containing six draggable labels and six numbered landing pads. Labels support mouse, touch and keyboard placement, can be moved, remain saved after reopening, and use Lock and save when all six pads are filled. Earlier completed three- or four-label records keep their original diagram marks.
+
+Student navigation: What’s left? is available on each assessment screen. It lists unanswered items and sections that still need Save & lock, and opens the relevant section or missing field. Next page stays visible: it opens this checklist until every required answer section is saved, then continues normally. The final diagram also shows its empty-pad numbers. A saved section with a missing response can be reopened for repair without clearing its other answers. The story-picture acknowledgement is optional and does not block advancement.
